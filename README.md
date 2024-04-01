@@ -8,8 +8,6 @@ El proyecto permite proporcionar una imagen con el texto a obtener, se envia al 
 
 ## Índice (opcional)
 
-Si su README es extenso, agregue un índice para facilitar que los usuarios encuentren lo que necesitan.
-
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Créditos](#créditos)
